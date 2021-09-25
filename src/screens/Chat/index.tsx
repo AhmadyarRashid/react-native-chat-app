@@ -7,7 +7,7 @@ export type Props = {
 };
 
 const ChatScreen: React.FC<Props> = () => {
-  return(
+  return (
     <View>
       <Text>This is chat app</Text>
     </View>
